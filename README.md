@@ -2,16 +2,15 @@
 
 https://sudoroom.org/wiki/Today_We_Learned
 
-three hours
+## three hours
 
-Every Saturday from 2PM to 5PM (but really till whenever) in the common area of Sudo Room.
+Every Saturday from 2PM to 5PM (but really till whenever) in the common area of Sudo Room. to learn together
 
-
-to learn together
-
-We get to figure out what that means. What's most useful to us? What do we want to learn? What do we want to share? How do we want to do this? 
+We get to figure out what that means. What's most useful to us? What do we want to learn? What do we want to share? How do we want to do this?  
 
 with minimal, optional coordination beforehand
+
+## Riseup Pad
 
 https://pad.riseup.net/p/twl
 
